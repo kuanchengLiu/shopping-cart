@@ -19,7 +19,12 @@
     "@angular/platform-browser": "~9.1.4",
     "@angular/platform-browser-dynamic": "~9.1.4",
     "@angular/router": "~9.1.4",
+    "jquery": "^3.5.1",
     "rxjs": "~6.5.4",
+    "save-dev": "0.0.1-security",
+    "semantic-ui": "^2.4.2",
+    "semantic-ui-angular-jquery": "^0.2.4",
+    "semantic-ui-css": "^2.4.1",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
